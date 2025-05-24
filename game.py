@@ -87,7 +87,6 @@ def main():
         else:
             print("Invalid inputs")
 
-        time.sleep(1)
     print("\n--- GAME OVER ---")
 
 
